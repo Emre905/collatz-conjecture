@@ -2,7 +2,7 @@
 Simple collatz conjecture analysis trying to find an infinite loop by getting the same term twice in the sequence
 
 ## Method:
-- TPlay with the powers of 3 and 2 having $\dfrac{3^m}{2^n}$ and seeing how close it can get to 1
+- Play with the powers of 3 and 2 having $\dfrac{3^m}{2^n}$ and seeing how close it can get to 1
 - Find sequences that has that m odd terms, n even terms (here m corresponds to having your number 3x+1, n is x/2)
 - Compare first term with the m+n'th term
 
